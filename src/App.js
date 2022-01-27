@@ -10,7 +10,7 @@ import Layout from "./layout";
  */
 function App() {
   return (
-    <Router>
+    <Router basename="/theme-editor">
       <Layout>
         <Routes>
           <Route path="/" element={<Setting />}></Route>
