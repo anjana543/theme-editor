@@ -4,7 +4,7 @@ This application is intended to allow organizations some very light-weight themi
 
 ## Live Demo
 
-https://anjana543.github.io/theme-editor-app/
+https://anjana543.github.io/theme-editor/
 
 ## INSTRUCTIONS
 
